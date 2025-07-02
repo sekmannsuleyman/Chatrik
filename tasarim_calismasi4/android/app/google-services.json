@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820807250549",
+    "project_id": "tasarimcalismasi2-c3dd8",
+    "storage_bucket": "tasarimcalismasi2-c3dd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820807250549:android:8067c0d80130e8e9907e3c",
+        "android_client_info": {
+          "package_name": "com.example.tasarim_calismasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj94cVkbbqAFIU5mz609hyOKagL5nBmFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
